@@ -1,6 +1,6 @@
 # Stock Price Prediction for AmEx
 
-![Stock Market](<img width="920" alt="Screenshot 2025-02-07 at 9 33 57 AM" src="https://github.com/user-attachments/assets/2f9b9cf5-8bea-45fe-b048-947990fb1486" />)
+![Stock Market](https://github.com/user-attachments/assets/2f9b9cf5-8bea-45fe-b048-947990fb1486)
 
 ## 📌 Overview
 This project predicts the stock prices of American Express (AmEx) using time series forecasting techniques like ARIMA, SARIMA, and VAR. It leverages historical stock market data to provide insights into future price trends.
